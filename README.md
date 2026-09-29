@@ -19,11 +19,9 @@ For a more curated view of my work, see my **[portfolio](https://portfolio-multi
 
 **Working with**
 
-<div style="display:flex;flex-wrap:wrap;gap:0.4rem;margin:0.35rem 0 0.5rem;">
-  <span style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.28rem 0.55rem;border:1px solid rgba(128,128,128,0.35);border-radius:999px;font-size:0.78rem;line-height:1.2;background:rgba(128,128,128,0.08);"><img src="./assets/stack/typescript.svg" width="15" height="15" alt="" aria-hidden="true" />TypeScript</span>
-  <span style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.28rem 0.55rem;border:1px solid rgba(128,128,128,0.35);border-radius:999px;font-size:0.78rem;line-height:1.2;background:rgba(128,128,128,0.08);"><img src="./assets/stack/react.svg" width="15" height="15" alt="" aria-hidden="true" />React</span>
-  <span style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.28rem 0.55rem;border:1px solid rgba(128,128,128,0.35);border-radius:999px;font-size:0.78rem;line-height:1.2;background:rgba(128,128,128,0.08);"><img src="./assets/stack/nodejs.svg" width="15" height="15" alt="" aria-hidden="true" />Node.js</span>
-  <span style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.28rem 0.55rem;border:1px solid rgba(128,128,128,0.35);border-radius:999px;font-size:0.78rem;line-height:1.2;background:rgba(128,128,128,0.08);"><img src="./assets/stack/postgresql.svg" width="15" height="15" alt="" aria-hidden="true" />PostgreSQL</span>
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:0.5rem;margin:0.35rem 0 0.5rem;">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4&theme=dark#gh-dark-mode-only" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4&theme=light#gh-light-mode-only" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
   <span style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.28rem 0.55rem;border:1px solid rgba(128,128,128,0.35);border-radius:999px;font-size:0.78rem;line-height:1.2;background:rgba(128,128,128,0.08);"><img src="./assets/stack/llms.svg" width="15" height="15" alt="" aria-hidden="true" />LLMs</span>
   <span style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.28rem 0.55rem;border:1px solid rgba(128,128,128,0.35);border-radius:999px;font-size:0.78rem;line-height:1.2;background:rgba(128,128,128,0.08);"><img src="./assets/stack/ai-agents.svg" width="15" height="15" alt="" aria-hidden="true" />AI agents</span>
 </div>

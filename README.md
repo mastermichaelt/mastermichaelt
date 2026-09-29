@@ -19,8 +19,7 @@ For a more curated view of my work, see my **[portfolio](https://portfolio-multi
 
 **Working with**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4&theme=dark#gh-dark-mode-only" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4&theme=light#gh-light-mode-only" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
 
 <p align="center">
   <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>

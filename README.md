@@ -13,16 +13,16 @@ My recent work focuses on AI-native product engineering and developer workflows:
 
 Most of my current projects, including my open-source developer tooling, live under **[multipliers-dev](https://github.com/multipliers-dev)**, an organisation I use for the work I'm building.
 
-## What I'm building
-
-**[Codenames AI](https://codenames-ai.com)** — LLM-powered Codenames exploring constrained generation, validation, multilingual word pools, and AI gameplay.
-
-**[Savepoints](https://dev.to/michaeltruong/the-agent-host-didnt-have-the-lifecycle-boundaries-i-assumed-5akh)** — Capture, review, promotion, provenance, and audit infrastructure for learnings from agent-driven development.
-
-**[Renovate Workflow](https://github.com/multipliers-dev/renovate-workflow)** — Governed dependency updates through a classify → investigate → review → merge workflow with explicit human gates.
-
-**[Cursor Team Marketplace](https://github.com/multipliers-dev/cursor-team-marketplace)** — Reusable agent-assisted engineering workflows for planning, repository bootstrap, and Cloud Agent integration.
-
 I write about what I learn while building these systems on **[DEV Community](https://dev.to/michaeltruong)**.
 
 You can also find the more curated view of my work on my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
+
+<p align="center">
+  <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>
+  <a href="https://dev.to/michaeltruong/the-agent-host-didnt-have-the-lifecycle-boundaries-i-assumed-5akh"><img src="./assets/projects/savepoints.png" width="49%" alt="Savepoints"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/multipliers-dev/renovate-workflow"><img src="./assets/projects/renovate-workflow.png" width="49%" alt="Renovate Workflow"></a>
+  <a href="https://github.com/multipliers-dev/cursor-team-marketplace"><img src="./assets/projects/cursor-team-marketplace.png" width="49%" alt="Cursor Team Marketplace"></a>
+</p>

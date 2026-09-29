@@ -4,7 +4,7 @@ I'm a senior software engineer based in Sydney, currently exploring how AI chang
 
 My recent work focuses on AI-native product engineering and developer workflows: building products with LLMs, designing agent-driven development systems, and turning experiments into reliable engineering infrastructure.
 
-Most of my current work lives under **[multipliers-dev](https://github.com/multipliers-dev)**, an organisation I use for the projects and developer tooling I'm building.
+Most of my current projects, including my open-source developer tooling, live under **[multipliers-dev](https://github.com/multipliers-dev)**, an organisation I use for the work I'm building.
 
 ## What I'm building
 

@@ -6,23 +6,45 @@ My recent work focuses on AI-native product engineering and developer workflows:
 
 Most of my current projects, including my open-source developer tooling, live under **[multipliers-dev](https://github.com/multipliers-dev)**, an organisation I use for the work I'm building.
 
-## What I'm building
+<h2>What I'm building</h2>
 
-### [Codenames AI](https://codenames-ai.com)
-
-An LLM-powered implementation of Codenames exploring constrained generation, validation, multilingual word pools, and AI gameplay.
-
-### [Savepoints](https://dev.to/michaeltruong/the-agent-host-didnt-have-the-lifecycle-boundaries-i-assumed-5akh)
-
-Infrastructure for retaining useful learnings from agent-driven development sessions, with explicit capture, review, promotion, provenance, and audit boundaries.
-
-### [Renovate Workflow](https://github.com/multipliers-dev/renovate-workflow)
-
-A governed dependency-update workflow that turns Renovate queues into a repeatable classify → investigate → review → merge process, with portable agent skills and explicit human gates.
-
-### [Cursor Team Marketplace](https://github.com/multipliers-dev/cursor-team-marketplace)
-
-Reusable engineering workflows for agent-assisted development, including planning methodology, repository bootstrap, and Cloud Agent integration.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://codenames-ai.com">Codenames AI</a></h3>
+      <p>
+        An LLM-powered implementation of Codenames exploring constrained
+        generation, validation, multilingual word pools, and AI gameplay.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://dev.to/michaeltruong/the-agent-host-didnt-have-the-lifecycle-boundaries-i-assumed-5akh">Savepoints</a></h3>
+      <p>
+        Infrastructure for retaining useful learnings from agent-driven
+        development sessions, with explicit capture, review, promotion,
+        provenance, and audit boundaries.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/multipliers-dev/renovate-workflow">Renovate Workflow</a></h3>
+      <p>
+        A governed dependency-update workflow that turns Renovate queues into
+        a repeatable classify → investigate → review → merge process, with
+        portable agent skills and explicit human gates.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/multipliers-dev/cursor-team-marketplace">Cursor Team Marketplace</a></h3>
+      <p>
+        Reusable engineering workflows for agent-assisted development,
+        including planning methodology, repository bootstrap, and Cloud Agent
+        integration.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## What I'm exploring
 

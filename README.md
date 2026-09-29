@@ -1,4 +1,10 @@
-# Hi, I'm Michael 👋
+<div align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Michael Truong — Senior Software Engineer × AI Product Engineer"
+    width="100%"
+  />
+</div>
 
 I'm a senior software engineer based in Sydney, currently exploring how AI changes the way software is designed, built, reviewed, and maintained.
 

@@ -26,6 +26,9 @@ Most of my current projects, including my open-source developer tooling, live un
       </p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/multipliers-dev/renovate-workflow">Renovate Workflow</a></h3>

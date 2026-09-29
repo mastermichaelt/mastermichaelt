@@ -17,8 +17,6 @@ I write about what I learn while building these systems on **[DEV Community](htt
 
 For a more curated view of my work, see my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
 
-**Working with**
-
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
 
 <p align="center">

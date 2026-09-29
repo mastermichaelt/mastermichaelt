@@ -7,15 +7,15 @@
 </div>
 <br>
 
-I'm a senior software engineer based in Sydney, currently exploring how AI changes the way software is designed, built, reviewed, and maintained.
+I'm a senior software engineer based in Sydney, exploring how AI changes the way software is designed, built, reviewed, and maintained.
 
-My recent work focuses on AI-native product engineering and developer workflows: building products with LLMs, designing agent-driven development systems, and turning experiments into reliable engineering infrastructure.
+My recent work focuses on AI-native product engineering and developer workflows: building with LLMs, designing agent-driven systems, and turning experiments into reliable engineering infrastructure.
 
-Most of my current projects, including my open-source developer tooling, live under **[multipliers-dev](https://github.com/multipliers-dev)**, an organisation I use for the work I'm building.
+Most of my current work lives under **[multipliers-dev](https://github.com/multipliers-dev)**.
 
 I write about what I learn while building these systems on **[DEV Community](https://dev.to/michaeltruong)**.
 
-You can also find the more curated view of my work on my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
+For a more curated view of my work, see my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
 
 <p align="center">
   <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>

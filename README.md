@@ -17,7 +17,7 @@ I write about what I learn while building these systems on **[DEV Community](htt
 
 For a more curated view of my work, see my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4" alt="TypeScript, React, Node.js, PostgreSQL" height="28" />
+Building with: <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&perline=4" alt="TypeScript, React, Node.js, PostgreSQL" height="28" style="vertical-align: middle;" />
 
 <p align="center">
   <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>

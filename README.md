@@ -5,6 +5,7 @@
     width="100%"
   />
 </div>
+<br>
 
 I'm a senior software engineer based in Sydney, currently exploring how AI changes the way software is designed, built, reviewed, and maintained.
 

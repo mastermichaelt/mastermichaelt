@@ -17,7 +17,7 @@ I write about what I learn while building these systems on **[DEV Community](htt
 
 For a more curated view of my work, see my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
 
-**Working with:** TypeScript · React · Node.js · PostgreSQL · LLMs · AI agents
+**Building with:** TypeScript · React · Node.js · PostgreSQL · LLMs · AI agents
 
 <p align="center">
   <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>

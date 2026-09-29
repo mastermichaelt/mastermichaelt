@@ -17,6 +17,8 @@ I write about what I learn while building these systems on **[DEV Community](htt
 
 For a more curated view of my work, see my **[portfolio](https://portfolio-multipliers-dev.vercel.app)**.
 
+**Building with:** TypeScript · React · Node.js · PostgreSQL · LLMs · AI agents
+
 <p align="center">
   <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>
   <a href="https://dev.to/michaeltruong/the-agent-host-didnt-have-the-lifecycle-boundaries-i-assumed-5akh"><img src="./assets/projects/savepoints.png" width="49%" alt="Savepoints"></a>

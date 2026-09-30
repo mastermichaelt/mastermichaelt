@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="./assets/profile-banner.svg"
     alt="Michael Truong — Senior Software Engineer × AI Product Engineer"
     width="100%"
   />

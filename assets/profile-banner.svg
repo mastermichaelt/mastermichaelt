@@ -32,7 +32,7 @@
 
  <image x="0" y="0" width="1983" height="579"
         preserveAspectRatio="none"
-        href="./profile-banner.png"/>
+        href="https://raw.githubusercontent.com/mastermichaelt/mastermichaelt/main/assets/profile-banner.png"/>
 
  <!-- Uniform darkness at t=0. The mask removes it smoothly from left to right. -->
  <rect x="0" y="0" width="1983" height="579"

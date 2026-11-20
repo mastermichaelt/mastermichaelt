@@ -19,7 +19,7 @@ Building with: TypeScript · React · Node.js · PostgreSQL · LLMs · AI agents
 
 <p align="center">
   <a href="https://codenames-ai.com"><img src="./assets/projects/codenames-ai.png" width="49%" alt="Codenames AI"></a>
-  <a href="https://dev.to/michaeltruong/the-agent-host-didnt-have-the-lifecycle-boundaries-i-assumed-5akh"><img src="./assets/projects/savepoints.png" width="49%" alt="Savepoints"></a>
+  <a href="https://github.com/multipliers-dev/savepoints-lite"><img src="./assets/projects/savepoints.png" width="49%" alt="Savepoints"></a>
 </p>
 
 <p align="center">
